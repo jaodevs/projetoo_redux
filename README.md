@@ -1,0 +1,2 @@
+# projeti_redux
+ 
